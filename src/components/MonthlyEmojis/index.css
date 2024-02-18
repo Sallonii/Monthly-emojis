@@ -1,0 +1,28 @@
+.bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/monthly-emojis/monthly-emojis-bg.png');
+  min-height: 100vh;
+  background-size: cover;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.main-heading {
+  color: #ffbe38;
+}
+
+.emoji-card {
+  display: flex;
+  background-color: #343243;
+  margin: 5px;
+  border-radius: 20px;
+}

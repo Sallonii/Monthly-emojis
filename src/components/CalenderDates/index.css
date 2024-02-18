@@ -1,0 +1,22 @@
+.date-items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20px;
+  margin-bottom: 13px;
+  background-color: #42404d;
+  border-radius: 5px;
+
+  list-style-type: none;
+  cursor: pointer;
+}
+.calender-emoji-image {
+  height: 10px;
+}
+
+.date-btn {
+  background-color: transparent;
+  border: none;
+  height: auto;
+  color: white;
+}
